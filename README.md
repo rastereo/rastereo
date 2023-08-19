@@ -18,6 +18,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
 </div>
 
+### 📬 Link
+
+<div id="badges">
+  <a href="https://t.me/rastereo">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegrma Badge"/>
+  </a>
+  <a href="mailto:rostislav.kaptur@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
 ### 🔥 My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rastereo)](https://github.com/anuraghazra/github-readme-stats)
