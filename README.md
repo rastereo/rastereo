@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
 </div>
 
-### 📬 Link
+### 📬 Links
 
 <div id="badges">
   <a href="https://t.me/rastereo">
