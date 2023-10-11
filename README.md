@@ -3,7 +3,7 @@
 ### ⚡️ A Few Quick Fact
 
 <div>
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="300px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 <ul>
   <li>💪 I’m currently working on something cool</li>
   <li>🧐 Learning about <strong>Redux Toolkit</strong>, <strong>Vue.js</strong>, and a bit of <strong>Gulp</strong></li>
