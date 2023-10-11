@@ -1,5 +1,17 @@
 # 👋 Hello there! I'm Rostislav
 
+### ⚡️ A Few Quick Fact
+
+<div>
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<ul>
+  <li>💪 I’m currently working on something cool</li>
+  <li>🧐 Learning about <strong>Redux Toolkit</strong>, <strong>Vue.js</strong>, and a bit of <strong>Gulp</strong></li>
+  <li>📙 Check out my <a href="https://drive.google.com/file/d/1Hk_HVscXTZDk1UTRhwLTNXno2ZOCMZWs/edit">resume</a> in russian</li>
+  <li>🎉 Fun fact: I ❤️ 🐈s and create <a href="https://soundcloud.com/djkapturiansky">DJ sets</a></li>
+</ul>
+</div>
+
 ### 🛠️ Languages and Tools:
 
 <div>
@@ -12,14 +24,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
 </div>
 
-### 📬 Links
+### 📬 Connect with me
 
 <div id="badges">
   <a href="https://t.me/rastereo">
