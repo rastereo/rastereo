@@ -21,12 +21,12 @@
 ### ⚡️ A Few Quick Fact
 
 <div>
-<img align="right" width="400px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="400px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 <ul>
   <li>💪 I’m currently working on something cool</li>
   <li>🧐 Learning about <strong>Redux Toolkit</strong>, <strong>Vue.js</strong>, and a bit of <strong>Gulp</strong></li>
-  <li>📙 Check out my <a href="https://drive.google.com/file/d/1Hk_HVscXTZDk1UTRhwLTNXno2ZOCMZWs/edit">resume</a> in russian</li>
-  <li>🎉 Fun fact: I ❤️ 🐈s and create <a href="https://soundcloud.com/djkapturiansky">DJ sets</a></li>
+  <li>📙 Check out my <a href="https://drive.google.com/file/d/1Hk_HVscXTZDk1UTRhwLTNXno2ZOCMZWs/edit" target=»_blank»>resume</a> in russian</li>
+  <li>🎉 Fun fact: I ❤️ 🐈s and create <a href="https://soundcloud.com/djkapturiansky" target=»_blank»>DJ sets</a></li>
 </ul>
 </div>
 
@@ -34,7 +34,7 @@
 ### 📬 Connect with me
 
 <div id="badges">
-  <a href="https://t.me/rastereo">
+  <a href="https://t.me/rastereo" target=»_blank»>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegrma Badge"/>
   </a>
   <a href="mailto:rostislav.kaptur@gmail.com">
