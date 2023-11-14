@@ -25,7 +25,7 @@
 <ul>
   <li>💪 I’m currently working on something cool</li>
   <li>🧐 Learning about <strong>Redux Toolkit</strong>, <strong>Vue.js</strong>, and a bit of <strong>Gulp</strong></li>
-  <li>📙 I'm looking for a job now. Check out my <a href="https://drive.google.com/file/d/1Hk_HVscXTZDk1UTRhwLTNXno2ZOCMZWs/edit" target=»_blank»>resume</a> in russian</li>
+  <li>📙 I'm looking for a job now. Check out my <a href="https://drive.google.com/file/d/1Tu5ikOF7_h64rlOzj2gDAiw9nE9LzrTc/view?usp=sharing" target=»_blank»>resume</a> in russian</li>
   <li>🎉 Fun fact: I ❤️ 🐈s and create <a href="https://soundcloud.com/djkapturiansky" target=»_blank»>DJ sets</a></li>
 </ul>
 </div>
