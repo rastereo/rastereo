@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Rostislav
+<img align="right" width="400px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ### 🛠️ Languages and Tools:
 
@@ -17,13 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
 </div>
-
-### ⚡️ A Few Quick Fact
-
-<div>
-<img align="right" width="400px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-</div>
-
 
 ### 📬 Connect with me
 
